@@ -5,7 +5,7 @@ from openai import OpenAI
 load_dotenv()
 
 client = OpenAI(
-    api_key=os.getenv("OPENAI_API_KEY")
+    api_key=os.getenv("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")
 )
 
 
