@@ -22,17 +22,17 @@ AI-powered bug bounty report generator built with Python, Streamlit, and OpenAI.
 
 Clone the repository:
 
-git clone https://github.com/jimmy9631/bugforge-ai.git
+```git clone https://github.com/jimmy9631/bugforge-ai.git```
 
-cd bugforge-ai
+```cd bugforge-ai```
 
 Create a virtual environment:
 
-python -m venv venv
+```python -m venv venv```
 
 Activate it and install dependencies:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Create a `.env` file:
 
@@ -40,11 +40,11 @@ OPENAI_API_KEY=your_api_key_here
 
 Run:
 
-streamlit run app.py
+```streamlit run app.py```
 
 ## 📸 Screenshot
 
-_Add application screenshot here._
+
 
 ## ⚠️ Disclaimer
 
