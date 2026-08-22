@@ -44,7 +44,8 @@ Run:
 
 ## 📸 Screenshot
 
-<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/c861c106-28c7-4e47-9b96-b5f8c26416b3" />
+<img width="1920" height="969" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/abf56f90-c88f-46e6-a333-6ebbe9213275" />
+
 
 
 ## ⚠️ Disclaimer
